@@ -1,0 +1,8 @@
+{
+  "welcome": "Bienvenue dans le gestionnaire de livres",
+  "addBook": "Ajouter un livre",
+  "delete": "Supprimer",
+  "error": {
+    "emptyBook": "Ce champ est requis"
+}
+}
